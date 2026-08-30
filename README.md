@@ -13,5 +13,13 @@ This project involves performing an Nmap assessment using Kali Linux against Met
 ### Key Takeaway:
 An open port does not automatically mean a compromise. It serves as a starting point for further analysis of the service, its configuration, and potential vulnerabilities.
 
+### 📸 Screenshots
+
+#### 1. Nmap Scan Results
+![Nmap Scan](nmap-scan.png)
+
+#### 2. Target Network Configuration
+![Network Config](ifconfig.png)
+
 ---
 *Note: All testing was performed in an isolated and authorized lab environment.*
