@@ -1,11 +1,18 @@
 # Nmap-Assessment-Lab
+# Nmap Assessment Lab
+
 Building a cybersecurity home lab one scan at a time.
+
 This project involves performing an Nmap assessment using Kali Linux against Metasploitable 2 in an isolated VirtualBox environment.
-During this lab, I practiced:
- Identifying live hosts
- Scanning and mapping TCP ports
- Enumerating services such as FTP, SSH, Telnet, HTTP, SMB, and MySQL
- Reviewing potential entry points in the network
-Key Takeaway
+
+### Lab Objectives & Activities:
+* Identifying live hosts
+* Scanning and mapping TCP ports
+* Enumerating services (FTP, SSH, Telnet, HTTP, SMB, MySQL)
+* Reviewing potential entry points in the network
+
+### Key Takeaway:
 An open port does not automatically mean a compromise. It serves as a starting point for further analysis of the service, its configuration, and potential vulnerabilities.
-Note: All testing was performed in an isolated and authorized lab environment.
+
+---
+*Note: All testing was performed in an isolated and authorized lab environment.*
