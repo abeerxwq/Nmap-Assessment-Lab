@@ -16,7 +16,7 @@ An open port does not automatically mean a compromise. It serves as a starting p
 ### 📸 Screenshots
 
 #### 1. Nmap Port Scan & Enumeration Results
-![Nmap Scan](IMG_9297.JPEG)
+![Nmap Scan](IMG_9297.jpeg)
 
 #### 2. Target Network Configuration & IP Verification
 ![Network Config](IMG_9298.JPEG)
