@@ -16,10 +16,10 @@ An open port does not automatically mean a compromise. It serves as a starting p
 ### 📸 Screenshots
 
 #### 1. Nmap Scan Results
-![Nmap Scan](nmap-scan.png)
+![Nmap Scan](‏IMG_9297.jpeg)
 
 #### 2. Target Network Configuration
-![Network Config](ifconfig.png)
+![Network Config](‏IMG_9298.jpeg)
 
 ---
 *Note: All testing was performed in an isolated and authorized lab environment.*
