@@ -1,5 +1,4 @@
 # Nmap-Assessment-Lab
-# Nmap Assessment Lab
 
 Building a cybersecurity home lab one scan at a time.
 
